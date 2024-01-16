@@ -1,5 +1,5 @@
 # Smart Contract Standards Working Group (SCSWG)
-Developer Experience and Education Working Group
+Smart Contract Standards Working Group
 
 # Introduction
 
